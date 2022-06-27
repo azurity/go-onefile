@@ -2,9 +2,9 @@ package main
 
 import (
 	"embed"
+	"github.com/azurity/go-onefile"
 	"io/fs"
 	"net/http"
-	"onefile"
 	"os"
 )
 
